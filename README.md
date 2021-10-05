@@ -63,7 +63,7 @@ Apps 학회원 여러분, 환영합니다!
     + 자신의 출석 여부를 정확하게 기입하지 않는 경우 순위 결정에 난항을 겪을 수 있습니다. 
     + 세션 참가자 분들의 적극적인 협조 부탁드립니다!! 
     + 출석 체크 폼: https://forms.gle/PmPtGWJPU8UfVM8fA  
-    + 출석 확인 시트: https://docs.google.com/spreadsheets/d/1bzzDeo_GOwlNY67bgQfFNPu9HwPNU3sliiN0IRHBPnI/edit?resourcekey#gid=1776900318
+    + 출석일수 확인 시트: https://docs.google.com/spreadsheets/d/1bzzDeo_GOwlNY67bgQfFNPu9HwPNU3sliiN0IRHBPnI/edit?resourcekey#gid=1776900318
     
 ## 저장소 사용
 + 알고리즘 문제풀이 및 웹 프로그래밍 자료들이 깃허브 저장소(Repository) 내에 저장될 예정입니다! 
